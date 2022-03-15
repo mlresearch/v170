@@ -1,5 +1,5 @@
 ---
-booktitle: Proceedings of the second Teaching Machine Learning and Artificial Intelligence
+booktitle: Proceedings of the Second Teaching Machine Learning and Artificial Intelligence
   Workshop
 shortname: TeachML
 year: '2021'
@@ -25,7 +25,7 @@ editor:
   family: Guhr
 title: Proceedings of Machine Learning Research
 description: |
-  Proceedings of the second Teaching Machine Learning and Artificial Intelligence Workshop
+  Proceedings of the Second Teaching Machine Learning and Artificial Intelligence Workshop
     Held in Virtual Conference on 08-13 September 2021
 
   Published as Volume 170 by the Proceedings of Machine Learning Research on 14 March 2022.
@@ -70,8 +70,8 @@ volume_type: Volume
 volume_dir: v170
 email: ''
 conference:
-  name: European Conference on Machine Learning and Principles and Practice of Knowledge
-    Discovery in Databases
+  name: Proceedings of the Second Teaching Machine Learning and Artificial Intelligence
+    Workshop
   url: https://teaching-ml.github.io/2021/
   location: Virtual Conference
   dates:
