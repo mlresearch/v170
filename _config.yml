@@ -70,7 +70,7 @@ volume_type: Volume
 volume_dir: v170
 email: ''
 conference:
-  name: Proceedings of the Second Teaching Machine Learning and Artificial Intelligence
+  name: The Second Teaching Machine Learning and Artificial Intelligence
     Workshop
   url: https://teaching-ml.github.io/2021/
   location: Virtual Conference
